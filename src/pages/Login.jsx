@@ -7,7 +7,7 @@ function Login() {
       <Navbar />
 
       <h1>Login</h1>
-      <p>Please enter your login details.</p>
+      <p>Please enter your login details properly.</p>
 
       <Footer />
     </>
